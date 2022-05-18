@@ -1,1 +1,1 @@
-# REACT.JS SLOT MACHINE
+# React.js slot machine
