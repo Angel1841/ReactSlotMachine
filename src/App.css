@@ -1,0 +1,27 @@
+.Slot{
+  height: 100px;
+  width: 100px;
+  display:inline-block;
+  margin-left: 25px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.slotArray{
+  display:inline-block;
+  display: flex; 
+  align-items: center;
+  margin-left: 400px;
+}
+
+
+.vertical-center {
+  display: flex;
+  position: relative;
+
+  top: 500px;
+  left: 930px;
+
+  height: 100px;
+  width: 100px;
+}
